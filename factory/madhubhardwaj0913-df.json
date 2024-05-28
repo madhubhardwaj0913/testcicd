@@ -1,0 +1,9 @@
+{
+	"name": "madhubhardwaj0913-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f904b072-4453-442f-95d2-e5b92489e3d6",
+		"tenantId": "ce7700a0-1e40-4494-b8eb-387923c5fe11"
+	}
+}
